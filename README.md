@@ -1,4 +1,4 @@
-# Conversor de dólar para reais
+# Conversor de dólares para reais
 
 Este site irá converter qualquer valor em dólar para reais.
 
