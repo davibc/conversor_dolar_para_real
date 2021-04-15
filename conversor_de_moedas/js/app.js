@@ -7,7 +7,7 @@ function voltaValorConversao() {
 
     converterParaReal()
 
-    document.querySelector("#botaoConversor").disabled = true
+    document.querySelector("#botaoConversor").disabled = false
 
     document.querySelector("#resultadoConversao").innerHTML = `R$ ${dolarParaRealFixado}`
 }
